@@ -10,7 +10,9 @@ module.exports = {
     extend: {
       colors:{
         hexleap:"#738FFF",
-        hexleapcolor:"#f7f7f8"
+        hexleapcolor:"#f7f7f8",
+        dark: "#232a3c", 
+        medium: "#293245"
       }
     },
   },
